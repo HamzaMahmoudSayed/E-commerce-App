@@ -1,0 +1,125 @@
+{
+    "global": {
+        "backToTop": "إلى الأعلى",
+        "selectRegister": "تسجيل",
+        "selectLogin": "تسجيل دخول"
+    },
+    "navbar": {
+        "home": "الصفحة الرئيسية",
+        "products": "المنتجات",
+        "categories": "الفيئات",
+        "brands": "العلامات التجارية",
+        "lang": "English",
+        "langSubmit": "en"
+    },
+    "footer": {
+        "getFreshCartApp": "احصل على تطبيق فريش كارت",
+        "lickOfApp": "سنرسل لك رابطًا، افتحه على هاتفك لتحميل التطبيق",
+        "email": "البريد الالكتروني",
+        "shareAppLink": "مشاركة رابط التطبيق",
+        "getDeliveries": "احصل على التوصيلات مع فريش كارت",
+        "paymentPartners": "شركاء الدفع",
+        "copyRight": "حقوق الطبع والنشر 2024 © بواسطة حمزة جميع الحقوق محفوظة"
+    },
+    "home": {
+        "shopPopularCategories": "تسوق الفئات الشعبية:",
+        "search": "بحث"
+    },
+    "products": {
+        "search": "بحث"
+    },
+    "categories": {
+        "search": "بحث"
+    },
+    "brands": {
+        "search": "بحث"
+    },
+    "wishlist": {
+        "title": "قائمة الرغبات:",
+        "empty": "قائمة الرغبات فارغة",
+        "remove": "إزالة",
+        "price": "السعر:"
+    },
+    "cart": {
+        "title": "عربة التسوق:",
+        "empty": "عربة التسوق فارغة",
+        "numOfItems": "عناصر",
+        "totalCartPrice": "إجمالي سعر العربة",
+        "clearCart": "مسح العربة",
+        "checkOut": "الدفع",
+        "adding": "اضف الى",
+        "price": "السعر:",
+        "remove": "إزالة"
+    },
+    "login": {
+        "title": "تسجيل الدخول الآن:",
+        "typeEmail": "اكتب بريدك الإلكتروني",
+        "typePassword": "اكتب كلمة المرور الخاصة بك",
+        "login": "تسجيل الدخول",
+        "forgotPassword": "نسيت كلمة المرور؟"
+    },
+    "register": {
+        "title": "سجل الآن :",
+        "typeName": "اكتب اسمك",
+        "typeEmail": "اكتب بريدك الإلكتروني",
+        "typePassword": "اكتب كلمة المرور الخاصة بك",
+        "typeRePassword": "اكتب كلمة المرور مرة أخرى",
+        "register": "تسجيل"
+    },
+    "validation": {
+        "required": "المدخلات مطلوبة",
+        "maxLength": "يجب ألا يتجاوز الإدخال 20 حرفًا",
+        "minLength": "يجب أن يكون الإدخال بطول لا يقل عن 2 حرف",
+        "resetCodeMaxLength": "يجب ألا يتجاوز الإدخال 6 أحرف",
+        "resetCodeMinLength": "يجب أن يكون الإدخال بطول لا يقل عن 4 أحرف",
+        "email": "يرجى إدخال عنوان بريد إلكتروني صحيح",
+        "pattern": "يجب أن يتطابق الحقل المخصص مع النمط",
+        "phone": "يجب عليك إدخال رقم هاتف صحيح",
+        "detailsMinLength": "يجب أن يكون الإدخال بطول لا يقل عن 10 أحرف",
+        "detailsMaxLength": "يجب ألا يتجاوز الإدخال 100 حرف",
+        "rePassword": "كلمة المرور الثانية لا تتطابق مع كلمة المرور"
+    },
+    "forgotPassword": {
+        "title": "نسيت كلمة المرور :",
+        "typeEmail": "اكتب بريدك الإلكتروني",
+        "send": "إرسال",
+        "title2": "تحقق من الرمز :",
+        "typeResetCode": "اكتب رمز إعادة تعيين كلمة المرور",
+        "verify": "تحقق",
+        "title3": "إعادة تعيين كلمة المرور :",
+        "typeNewPassword": "اكتب كلمة المرور الجديدة",
+        "reset": "إعادة تعيين"
+    },
+    "productsDetails": {
+        "title": "المنتجات ذات الصلة :",
+        "category": "الفئة :",
+        "brand": "العلامة التجارية :",
+        "subCategories": "الفئات الفرعية :",
+        "quantity": "الكمية :"
+    },
+    "relatedProductsDetails": {
+        "title": "المنتجات ذات الصلة :",
+        "category": "الفئة :",
+        "brand": "العلامة التجارية :",
+        "subCategories": "الفئات الفرعية :",
+        "quantity": "الكمية :"
+    },
+    "categoryDetails": {
+        "title": "منتجات الفئة :",
+        "empty": "لا توجد منتجات لهذه الفئة",
+        "categoryName": "اسم الفئة:",
+        "subCategories": "الفئات الفرعية :",
+        "emptySubCategories": "لا توجد فئات فرعية"
+    },
+    "brandDetails": {
+        "title": "منتجات العلامة التجارية :",
+        "empty": "لا توجد منتجات للعلامة التجارية"
+    },
+    "address": {
+        "title": "اطلب الآن :",
+        "typeDetails": "اكتب تفاصيلك",
+        "typePhone": "اكتب هاتفك",
+        "chooseCity": "اختر مدينتك :",
+        "pay": "ادفع"
+    }
+}

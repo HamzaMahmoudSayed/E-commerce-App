@@ -1,0 +1,125 @@
+{
+    "global": {
+        "backToTop": "To Top",
+        "selectRegister": "Register",
+        "selectLogin": "Login"
+    },
+    "navbar": {
+        "home": "Home",
+        "products": "Products",
+        "categories": "Categories",
+        "brands": "Brands",
+        "langSubmit": "ar",
+        "lang": "العربية"
+    },
+    "footer": {
+        "getFreshCartApp": "Get the FreshCart app",
+        "lickOfApp": "We will send you a link, open it on your phone to download app",
+        "email": "Email",
+        "shareAppLink": "Share App Link",
+        "getDeliveries": "Get Deliveries with FreshCart",
+        "paymentPartners": "Payment Partners",
+        "copyRight": "Copy Right 2024 © By Hamza All Rights Reserved"
+    },
+    "home": {
+        "shopPopularCategories": "Shop Popular Categories:",
+        "search": "Search"
+    },
+    "products": {
+        "search": "Search"
+    },
+    "categories": {
+        "search": "Search"
+    },
+    "brands": {
+        "search": "Search"
+    },
+    "wishlist": {
+        "title": "Wishlist :",
+        "empty": "The Wishlist is Empty",
+        "remove": "remove",
+        "price": "Price :"
+    },
+    "cart": {
+        "title": "Shop Cart :",
+        "empty": "The Shop Cart is Empty",
+        "numOfItems": "Items",
+        "totalCartPrice": "Total Cart Price",
+        "clearCart": "Clear Cart",
+        "checkOut": "Check Out",
+        "adding": "Add To",
+        "price": "Price :",
+        "remove": "remove"
+    },
+    "login": {
+        "title": "Login Now :",
+        "typeEmail": "Type Your Email",
+        "typePassword": "Type Your Password",
+        "login": "Login",
+        "forgotPassword": "Forgot Password?"
+    },
+    "register": {
+        "title": "Register Now :",
+        "typeName": "Type Your Name",
+        "typeEmail": "Type Your Email",
+        "typePassword": "Type Your Password",
+        "typeRePassword": "Type Your rePassword",
+        "register": "Register"
+    },
+    "validation": {
+        "required": "Input is Required",
+        "maxLength": "Input must be not exceed 20 characters",
+        "minLength": "Input must be at least 2 characters long",
+        "resetCodeMaxLength": "Input must be not exceed 6 characters",
+        "resetCodeMinLength": "Input must be at least 4 characters long",
+        "email": "Please enter a valid email address",
+        "pattern": "Custom field must match the pattern",
+        "phone": "You Must Enter a Valid Phone Number",
+        "detailsMinLength": "Input must be at least 10 characters long",
+        "detailsMaxLength": "Input must be not exceed 100 characters",
+        "rePassword": ":RePassword doesn't match password"
+    },
+    "forgotPassword": {
+        "title": "Forgot Password :",
+        "typeEmail": "Type Your Email",
+        "send": "Send",
+        "title2": "Verify Code :",
+        "typeResetCode": "Type The Reset Code",
+        "verify": "Verify",
+        "title3": "Reset Password :",
+        "typeNewPassword": "Type The New Password",
+        "reset": "Reset"
+    },
+    "productsDetails": {
+        "title": "The Related Products :",
+        "category": "Category :",
+        "brand": "Brand :",
+        "subCategories": "Sub Categories :",
+        "quantity": "Quantity :"
+    },
+    "relatedProductsDetails": {
+        "title": "The Related Products :",
+        "category": "Category :",
+        "brand": "Brand :",
+        "subCategories": "Sub Categories :",
+        "quantity": "Quantity :"
+    },
+    "categoryDetails": {
+        "title": "The Category Products :",
+        "empty": "There is no category products",
+        "categoryName": "Category Name :",
+        "subCategories": "Sub Categories :",
+        "emptySubCategories": "There is no Sub Categories"
+    },
+    "brandDetails": {
+        "title": "The Brand Products :",
+        "empty": "There is no Brand Products"
+    },
+    "address": {
+        "title": "Order Now :",
+        "typeDetails": "Type your Details",
+        "typePhone": "Type your Phone",
+        "chooseCity": "Choose Your City:",
+        "pay": "Pay"
+    }
+}
